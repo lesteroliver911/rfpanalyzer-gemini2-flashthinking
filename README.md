@@ -14,6 +14,10 @@ Tired of sifting through dense Request for Proposal (RFP) documents?  **RFP Insi
 *   **User-Friendly Interface:**  Built with Streamlit for a simple and interactive web application experience.
 *   **Clear and Concise Output:**  Presents analysis results in an easy-to-understand format within the application.
 
+**See RFP Insights in Action:**
+
+<img src="https://github.com/lesteroliver911/rfpanalyzer-gemini2-flashthinking/blob/main/lesteroliver-rfp-gemini2flashexp.png" alt="Screenshot of RFP Analyzer interface showing analysis results" height="300">
+
 **Why This Project is Special:**
 
 This project stands out by combining two powerful technologies:
