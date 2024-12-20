@@ -16,7 +16,7 @@ Tired of sifting through dense Request for Proposal (RFP) documents?  **RFP Insi
 
 **See RFP Insights in Action:**
 
-<img src="https://github.com/lesteroliver911/rfpanalyzer-gemini2-flashthinking/blob/main/lesteroliver-rfp-gemini2flashexp.png" alt="Screenshot of RFP Analyzer interface showing analysis results" height="300">
+<img src="https://github.com/lesteroliver911/rfpanalyzer-gemini2-flashthinking/blob/main/lesteroliver-rfp-gemini2flashexp.png" alt="Screenshot of RFP Analyzer interface showing analysis results" height="500">
 
 **Why This Project is Special:**
 
